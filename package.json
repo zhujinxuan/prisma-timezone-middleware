@@ -1,0 +1,10 @@
+{
+  "name": "prisma-timezone-middleware",
+  "version": "1.0.0",
+  "description": "Prisma Middleware for solving timezone conversion",
+  "main": "dist/index.js",
+  "repository": "git@github.com:zhujinxuan/prisma-timezone-middleware.git",
+  "author": "Jinxuan Zhu <zhujinxuan@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
